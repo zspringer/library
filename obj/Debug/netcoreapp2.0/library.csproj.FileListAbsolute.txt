@@ -1,0 +1,10 @@
+/Users/zachspringer/source/codeworks/library/bin/Debug/netcoreapp2.0/library.deps.json
+/Users/zachspringer/source/codeworks/library/bin/Debug/netcoreapp2.0/library.runtimeconfig.json
+/Users/zachspringer/source/codeworks/library/bin/Debug/netcoreapp2.0/library.runtimeconfig.dev.json
+/Users/zachspringer/source/codeworks/library/bin/Debug/netcoreapp2.0/library.dll
+/Users/zachspringer/source/codeworks/library/bin/Debug/netcoreapp2.0/library.pdb
+/Users/zachspringer/source/codeworks/library/obj/Debug/netcoreapp2.0/library.csproj.CoreCompileInputs.cache
+/Users/zachspringer/source/codeworks/library/obj/Debug/netcoreapp2.0/library.AssemblyInfoInputs.cache
+/Users/zachspringer/source/codeworks/library/obj/Debug/netcoreapp2.0/library.AssemblyInfo.cs
+/Users/zachspringer/source/codeworks/library/obj/Debug/netcoreapp2.0/library.dll
+/Users/zachspringer/source/codeworks/library/obj/Debug/netcoreapp2.0/library.pdb
